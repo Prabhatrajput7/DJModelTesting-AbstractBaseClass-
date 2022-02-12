@@ -1,0 +1,1 @@
+# DJModelTesting-AbstractBaseClass-
